@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.8/55a1aa1cdcfd06b9950ca856e2bc2790e105146a/dagger-2.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="55a1aa1cdcfd06b9950ca856e2bc2790e105146a">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/dagger-2.8_d542763910dc5792645b70e5b1b4667964c046ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_6d747a3987cd74060b3609eb805b0770b1b059a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_4e47fe8bf01b6a9b4e873189bf56cda4102f3f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_f1be0e0894580e14161829300e0de01cc83cc676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6_f3bcafd4b63c01f50c92cb8f43e87c53262e6821.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/gson-2.7_edbe08ed986f45853541c457e70ca9431bde7483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.1_8466158537d65ea1ca3f4a8a19055080c9750263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/okio-1.11.0_38c98dc3bd96171a67619a18d9d1f2fd6e8370d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_c9dddad43aae5d943fdfee1b8acbb9b3696d9430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-scalars/2.1.0/7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5/converter-scalars-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/converter-scalars-2.1.0_99d6cea18a717a0a736c7f2112c05058662613e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/okhttp-3.5.0_1d3f4d0a386574745ce471f97f10eb775a72008f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_a6c4a61d47d2998b73a887deecc632e869d1217c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_15785aaa57bb707f9f9a2ff4132b0c5f8642bdc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.5.0/94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397/logging-interceptor-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.5.0_6a43e83b856a630854f3c510bbb6e78d163e727c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_2b39d37fc6a7b9211db49e4f665b629714a0f323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_4a0c9de74d33d0eb3ba122683553a49c41cf8af4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_1f9b42729acad84ddde2a2e367d0675b7b88611a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_236ba64a9c872014626e22659430897689f023cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_aa11a2bb7c90ac5926755c058ef35f36e00a9509.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_75821eb77bc0fa5ad2e60b54927323079050166e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_cf6486f43e9edbfb7de6e75f9fb2e36ece2808a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/javax.inject-1_f3ee109219011ee506f55dd8e1043915c2ab0394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.5.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c74c28a44292b6480afe69ddb2c0974f45393a3a">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/com.jakewharton.timber-timber-4.5.1_0ec10d960bf9ab6528f289a839af662e8ba86472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_6985a8c6de8f80bd5f8690178f3a60014511f359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.0_d4cf95c6d431071017ef1508e9b38ed2d4aadc78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/.gradle/caches/modules-2/files-2.1/com.jakewharton.picasso/picasso2-okhttp3-downloader/1.1.0/f4f77eb62269c977c154765cd01587eda6488273/picasso2-okhttp3-downloader-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4f77eb62269c977c154765cd01587eda6488273">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/picasso2-okhttp3-downloader-1.1.0_2cdd2905505de31bf372afd257f9d3a1b8ceae27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_5c161f15df6ef54f69ccb223df62de80b0ad0e32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_48695eb8d7d95521f2b7725049dd3608482a2ead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_14a28bec3080921fa955881f4041bf681a8c4461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/mucahit/Documents/Working Repository/Foreks2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_a168dc3ea64795ab1e70548affc939aa0f084fa2.jar" />
+    </item>
+
+</items>
